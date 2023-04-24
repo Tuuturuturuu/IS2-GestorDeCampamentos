@@ -1,3 +1,6 @@
-# DOC_GestorDeCampamentos
+# **Gestor de Campamentos**
+- [Código](https://github.com/Tuuturuturuu/COD_GestorDeCampamentos.git)
+- [Modelo de Diseño](https://github.com/Tuuturuturuu/MODEL_GestorDeCampamentos.git)
+- [Documentación](https://github.com/Tuuturuturuu/DOC_GestorDeCampamentos.git)
 
-Documentación Proyecto IS2: Gestor de Campamentos
+> Ingeniería del Software 2
